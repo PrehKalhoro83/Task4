@@ -1,0 +1,9 @@
+1. install Docker 
+2. check docker version 
+3. create directory "dir name"
+4. change directory "dir name"
+5.create a index.html file 
+6.build that image
+7. run the docker container with host port and container port in detach mode 
+8. now check the logs.
+9. push ur container in github .
